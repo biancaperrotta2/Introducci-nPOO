@@ -33,12 +33,12 @@ Características:
 * Lanza una excepción si el número ingresado es menor a cero
 Este ejercicio demuestra cómo organizar funciones dentro de una clase para lograr un código más modular, reutilizable y limpio.
 
-##🔧 Requisitos
+## 🔧 Requisitos
 Java JDK 17+
 NetBeans IDE 
 Conocimiento básico de POO
 
-##📦 Cómo usar este repositorio
+## 📦 Cómo usar este repositorio
 Cloná o descargá el repositorio.
 Abrí NetBeans y seleccioná File > Open Project.
 Ejecutá cada carpeta individualmente o integrá los archivos manualmente.
